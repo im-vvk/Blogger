@@ -154,7 +154,7 @@ span {
 main .site-title {
   background: url("../assets/Background-image.png");
   background-size: cover;
-  height: 115vh;
+  height: 112vh;
   display: flex;
   justify-content: center;
 }
