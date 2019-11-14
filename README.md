@@ -1,2 +1,2 @@
 # Blogger
-A full responsive blogger website :)
+A full responsive blogger website :) But not completed yet.
